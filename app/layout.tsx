@@ -14,7 +14,7 @@ const fontSans = FontSans({
 
 const title = 'Morphic'
 const description =
-  'A fully open-source AI-powered answer engine with a generative UI.'
+  '😂😂😂 AI'
 
 export const metadata: Metadata = {
   title,
